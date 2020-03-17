@@ -45,6 +45,18 @@ body {
 }
 
 
+/*
+#dice-1 {
+    top: 120px;
+}
+
+#dice-2 {
+    top: 250px;
+}
+
+*/
+
+
 /**********************************************
 *** PLAYERS
 **********************************************/
@@ -172,4 +184,18 @@ i {
 .winner .player-name {
     font-weight: 300;
     color: #EB4D4D;
+}
+
+
+/********************
+  WIN SCORE
+*************************/
+
+.win-score-wrapper {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.win-score {
+    font-size: 35px;
 }

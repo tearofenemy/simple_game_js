@@ -1,1 +1,1 @@
-# simple_game_js
+# simple_dice_game
